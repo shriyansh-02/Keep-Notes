@@ -22,5 +22,5 @@ const DataProvider=({children})=>{
        </DataContext.Provider>
     )
 }
-
+ 
 export default DataProvider;
